@@ -51,5 +51,6 @@ Tipo de Treino	Descrição
 "levar em consideracao  o biotipo do usuario e aproveitamento diario"
 
 # resultado esperado
-    resultado esperado é um plano de treino personalizado com base nas quatro variaveis informadas acima,
+    resultado esperado é um plano de treino personalizado com base nas quatro variaveis informadas acima 
+    e suas regras associadas
     crie um treino eficiente e proativo.
